@@ -1,0 +1,27 @@
+.brand_color {
+    color: white !important;
+    font-size: 1.8em;
+}
+
+.jumbotron {
+    color: turquoise;
+}
+nav a {
+    font-size: 1.2em;
+}
+
+.drop_down_color {
+    color: black;
+    font-size: 0.9em
+}
+
+
+}
+
+body {
+    background-color: grey;
+    padding: 30rem;
+    margin: 30rem;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
